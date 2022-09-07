@@ -2,7 +2,7 @@
 #### I am Python developer
 Play basketball and live a happy family life
 
-Skills :  DJANGO / PYTHON / SQL / TELEGRAM-BOT / DOCKER
+Skills :  DJANGO / PYTHON / SQL / TELEGRAM-BOT 
 
 - 🌱 I’m currently learning everything related to python 
 - 📫 How to reach me: utkonoser@gmail.com 
