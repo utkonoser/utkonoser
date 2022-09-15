@@ -4,7 +4,6 @@ Play basketball and live a happy family life
 
 Skills :  GO / PYTHON / SQL / DJANGO 
 
-- 🌱 Write code in Python and Go 
 - 📫 How to reach me: utkonoser@gmail.com 
 
 
