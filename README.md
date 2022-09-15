@@ -1,8 +1,8 @@
 ### Hi there 👋, my name is Nikita
-#### I am beginer backend developer
+#### I am backend developer
 Play basketball and live a happy family life
 
-Skills :  GO / PYTHON / SQL / DJANGO / TELEGRAM-BOT 
+Skills :  GO / PYTHON / SQL / DJANGO 
 
 - 🌱 Write code in Python and Go 
 - 📫 How to reach me: utkonoser@gmail.com 
