@@ -1,13 +1,14 @@
-### Hi there 👋, my name is Nikita
-#### I am backend developer
-Play basketball and live a happy family life
+### My name is Nikita
+#### I am beginner backend developer
 
-Skills :  GO / PYTHON / SQL / DJANGO 
+Skills :  GO / PYTHON / SQL / PostgreSQL / Docker
 
 - 📫 How to reach me: utkonoser@gmail.com 
+- Telegram: https://t.me/ctrlshiftesc
+- Instagram: https://www.instagram.com/@o_cl_o
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/@o_cl_o/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/ctrlshiftesc)  
+
 
 [![utkonoser's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=utkonoser&theme=dark)](https://github.com/utkonoser/leetcode-stats)
 
