@@ -4,8 +4,8 @@
 Skills :  GO / PYTHON / SQL / PostgreSQL / Docker
 
 - 📫 How to reach me: utkonoser@gmail.com 
-- Telegram: https://t.me/ctrlshiftesc
-- Instagram: https://www.instagram.com/@o_cl_o
+- ✈️ Telegram: https://t.me/ctrlshiftesc
+- 📸 Instagram: https://www.instagram.com/@o_cl_o
 
 
 
