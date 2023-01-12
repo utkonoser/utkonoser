@@ -1,11 +1,10 @@
 ### My name is Nikita
-#### I am beginner backend developer
+#### I am backend developer
 
 Skills :  GO / PYTHON / SQL / PostgreSQL / Docker
 
-- 📫 How to reach me: utkonoser@gmail.com 
+- 📫 Email: utkonoser@gmail.com 
 - ✈️ Telegram: https://t.me/ctrlshiftesc
-- 📸 Instagram: https://www.instagram.com/@o_cl_o
 
 
 
