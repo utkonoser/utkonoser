@@ -1,5 +1,5 @@
-### My name is Nikita
-#### I am backend developer
+### Hi! My name is Nikita
+#### I am GO developer
 
 Skills :  GO / PYTHON / SQL / PostgreSQL / Docker
 
@@ -7,6 +7,8 @@ Skills :  GO / PYTHON / SQL / PostgreSQL / Docker
 - ✈️ Telegram: https://t.me/ctrlshiftesc
 
 
+
+My LeetCode:
 
 
 [![utkonoser's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=utkonoser&theme=dark)](https://github.com/utkonoser/leetcode-stats)
