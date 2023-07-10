@@ -1,7 +1,7 @@
 ### Hi! My name is Nikita
-#### I am GO developer
+#### GO developer
 
-Skills :  GO / PYTHON / SQL / PostgreSQL / Docker
+Skills :  GO / SQL / PostgreSQL / Docker
 
 - 📫 Email: utkonoser@gmail.com 
 - ✈️ Telegram: https://t.me/ctrlshiftesc
